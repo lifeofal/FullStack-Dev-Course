@@ -1,20 +1,26 @@
-
+img#Alexjpg {
+	border-radius: 50%;
+	border: 10px solid #403d39;
+}
 
 hr {
 	width: 10%;
 	border-style: none;
 	border-top-style: dotted;
 	border-top-width: 8px;
-	color: #ef233c;
+	color: #403d39;
 }
 
 body {
-	background-color: #edf2f4;
+	background-color: #fffcf2;
 }
 
-h1{
-    color: #8d99ae;
+h1 {
+	color: #403d39;
 }
-h3{
-    color: #8d99ae;
+h2 {
+	color: #403d39;
+}
+h3 {
+	color: #403d39;
 }
