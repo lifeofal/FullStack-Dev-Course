@@ -1,0 +1,36 @@
+body {
+	background-color: #fef7dc;
+	margin: 0;
+}
+#MyName {
+	font-family: "Poppins", sans-serif;
+}
+h1 {
+	margin-top: 0;
+}
+.top-container {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+
+	background-color: yellow;
+}
+.middle-container {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 400px;
+	top: 400px;
+	background-color: red;
+}
+.bottom-container {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 200px;
+	top: 200px;
+	background-color: blue;
+}
+#Software {
+	text-decoration: underline;
+}
